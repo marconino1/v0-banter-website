@@ -22,7 +22,7 @@ export default function Home() {
         <div className="md:w-1/2 mb-10 md:mb-0 md:pr-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">If you care, you banter.</h1>
           <p className="text-lg md:text-xl text-gray-700 mb-8">
-            A messaging app built to deepen your closest relationships with smart prompts that help you stay in touch.
+            A simple way to stay in touch with the people who matter most.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 w-full max-w-md">
             <div className="relative flex-grow">
